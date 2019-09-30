@@ -32,6 +32,7 @@ brew "rbenv"
 brew "ruby-build"
 brew "saw"
 brew "terraform"
+brew "tmux"
 brew "yarn"
 
 cask "adobe-acrobat-reader"
